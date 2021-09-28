@@ -15,6 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoobook.Data", "Zoobook.Dat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoobook.UnitOfWork", "Zoobook.UnitOfWork\Zoobook.UnitOfWork.csproj", "{449B6814-728C-474D-BB62-3D48F675CC1D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{564827C6-3365-42C9-AABF-8F806F566F7A}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER2017\MSSQL\Backup\EmployeeRecords.bak = C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER2017\MSSQL\Backup\EmployeeRecords.bak
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
