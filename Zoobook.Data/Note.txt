@@ -1,0 +1,5 @@
+********************************************************************************************
+Use following command to generate DB entity from existing dsatabase using command prompt
+********************************************************************************************
+
+dotnet ef dbcontext scaffold "Data Source=DESKTOP-0DEJD7F\SQLEXPRESS;Initial Catalog=HomeChef;Persist Security Info=True;User ID=sa;Password=5@data" Microsoft.EntityFrameworkCore.SqlServer -o Database
